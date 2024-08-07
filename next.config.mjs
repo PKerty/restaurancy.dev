@@ -4,9 +4,9 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "source.unsplash.com",
+        hostname: "foodish-api.com",
         port: "",
-        pathname: "/480x300/**",
+        pathname: "/images/**",
       },
     ],
   },
